@@ -1,28 +1,23 @@
-<h1 align="center">🚀 Аккаунт переехал!</h1>
-
 <p align="center">
-  Этот профиль больше не активен.<br />
-  Сейчас я сижу здесь:
+  <img src="https://user-images.githubusercontent.com/placeholder/move.svg" width="80" />
 </p>
 
-<h2 align="center">
-  <a href="https://github.com/ibeswipin">👉 @ibeswipin 👈</a>
-</h2>
-
----
+<h2 align="center">Profile Moved</h2>
 
 <p align="center">
-  Пожалуйста, переходи на мой основной аккаунт, там все актуальные репозитории, проекты и активности.
+  This account has been renamed and is no longer active.
 </p>
 
 <p align="center">
-  <a href="https://github.com/ibeswipin">
-    <img src="https://img.shields.io/badge/go_to-@ibeswipin-black?style=for-the-badge" alt="Go to @ibeswipin" />
-  </a>
+  My new profile is now here:
 </p>
 
----
+<p align="center">
+  <a href="https://github.com/ibeswipin"><b>@ibeswipin</b></a>
+</p>
+
+<hr />
 
 <p align="center">
-  Если ты попал сюда по старой ссылке — просто нажми на ник сверху 👆
+  Please follow the link above for all current projects and updates.
 </p>
