@@ -1,23 +1,24 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/move.svg" width="80" />
-</p>
+<div align="center">
 
-<h2 align="center">Profile Moved</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:333333&height=180&section=header&text=Profile%20Moved&fontColor=ffffff&fontSize=40&animation=fadeIn" />
 
-<p align="center">
-  This account has been renamed and is no longer active.
-</p>
+<br/>
 
-<p align="center">
-  My new profile is now here:
-</p>
+### This profile is no longer active
 
-<p align="center">
-  <a href="https://github.com/ibeswipin"><b>@ibeswipin</b></a>
-</p>
+I have moved to a new GitHub account.  
+All current work, projects and updates can be found there.
 
-<hr />
+<br/>
 
-<p align="center">
-  Please follow the link above for all current projects and updates.
-</p>
+<a href="https://github.com/ibeswipin">
+  <img src="https://img.shields.io/badge/New%20Profile-@ibeswipin-000000?style=for-the-badge&logo=github" />
+</a>
+
+<br/><br/>
+
+---
+
+<img src="https://readme-typing-svg.herokuapp.com?size=14&color=888888&center=true&vCenter=true&width=500&lines=Thank+you+for+visiting.;Please+follow+the+link+above+to+continue." />
+
+</div>
